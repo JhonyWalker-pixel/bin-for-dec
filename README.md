@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-A different yet simple web application that converts binary numbers to decimal numbers If you want to see the project running, go to[here](https://dribbble.com/)
+A different yet simple web application that converts binary numbers to decimal numbers If you want to see the project running, go to[here](https://jhonywalker-pixel.github.io/bin-for-dec/)
 
 ## :computer: Languages used
 
