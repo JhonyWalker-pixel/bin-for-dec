@@ -10,7 +10,7 @@ A different yet simple web application that converts binary numbers to decimal n
 ## :computer: Languages used
 
 In addition to our dear HTML and CSS I used a very well-known language:
-* Javascript
+* Vanilla JS
 
 ## :book: Licença
 
