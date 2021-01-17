@@ -7,11 +7,11 @@
 
 A different yet simple web application that converts binary numbers to decimal numbers If you want to see the project running, go to [here](https://jhonywalker-pixel.github.io/bin-for-dec/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 In addition to our dear HTML and CSS I used a very well-known language:
 * Vanilla JS
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
