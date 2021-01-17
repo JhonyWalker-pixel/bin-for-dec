@@ -12,6 +12,6 @@ A different yet simple web application that converts binary numbers to decimal n
 In addition to our dear HTML and CSS I used a very well-known language:
 * Vanilla JS
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
